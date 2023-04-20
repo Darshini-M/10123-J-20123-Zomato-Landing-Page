@@ -3,5 +3,6 @@
 # This is my zomato landing clone
 
 ## Done with first commit
-Edited in git
 
+
+## Set Up created here for our appl
